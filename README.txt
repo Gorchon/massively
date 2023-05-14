@@ -1,32 +1,7 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my personal software engineering portfolio! Here you will find a selection of the most outstanding projects I have worked on throughout my career. From mobile applications to large-scale enterprise solutions, my experience in software development covers a wide variety of industries and technologies.
 
+My focus is on creating robust, scalable, and high-quality software solutions that meet the specific needs and requirements of each client. Additionally, I am passionate about researching and implementing new technologies that improve the efficiency and functionality of systems.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+In my portfolio, you can see concrete examples of my work, from software design and architecture to implementation and testing. I am confident that you will find interesting and exciting projects that illustrate my dedication to technical excellence and delivering superior results.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+If you have any questions or would like to learn more about any of my projects, please do not hesitate to contact me. Thank you for visiting my portfolio
